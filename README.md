@@ -93,12 +93,16 @@ print("Hello World")
 
 ![Manjaro logo](Images/Manjaro_logo_text.png "Manjaro Logo")
 
+---
+
 <!-- GitHub MarkDown (Reglas que solo nos provee GitHub) -->
 
 * [x] Task 1
 * [ ] Task 2
 * [ ] Task 3
 * [ ] Task 4
+
+---
 
 <!-- Mencionar a otro usuario -->
 
