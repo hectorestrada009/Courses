@@ -96,6 +96,10 @@ print("Hello World")
 <!-- GitHub MarkDown (Reglas que solo nos provee GitHub) -->
 
 * [x] Task 1
-* [] Task 2
-* [] Task 3
-* [] Task 4
+* [ ] Task 2
+* [ ] Task 3
+* [ ] Task 4
+
+<!-- Mencionar a otro usuario -->
+
+@andreamarin751 :stuck_out_tongue_closed_eyes:  :+1:
